@@ -11,5 +11,5 @@
 | 4.   | [Анализ текстов](https://github.com/cfyz325/yandex_practicum/tree/main/toxic_comments) | Анализ комментариев пользователей на токсичность             | python, pandas, numpy, nltk, sklearn, LogisticRegression, RandomForestClassifier, DecisionTreeClassifier |
 | 5.   | [Определение наиболее выгодного региона нефтедобычи](https://github.com/cfyz325/yandex_practicum/tree/main/oilwell) |На основе данных геологи разведки выбрать район добычи нефти         | Pandas,Scikit-learn,бутстреп |
 | 6.   | [Обработка фотографий покупателя](https://github.com/cfyz325/yandex_practicum/tree/main/photo_age) | Определение возраста по фотографии            | Keras,Python |
-| 7.   | [Защита данных клиентов страховой компании]((https://github.com/cfyz325/yandex_practicum/tree/main/privacy)) | Разработка модели анонимизации персональных данных            | NumPy,Python,Scikit-learn |
+| 7.   | [Защита данных клиентов страховой компании](https://github.com/cfyz325/yandex_practicum/tree/main/privacy) | Разработка модели анонимизации персональных данных            | NumPy,Python,Scikit-learn |
 | 7.   | [текст](ссылка) | задача           | методы |
